@@ -29,7 +29,7 @@ Clone this project to the user folder
 
 ```bash
 cd 
-git clone git@github.com:Arbigaus/dotfilles.git
+git clone git@github.com:Arbigaus/dotfiles.git
 ```
 
 access the dotfiles folder and run the install script
