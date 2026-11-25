@@ -12,7 +12,7 @@ fi
 echo "Homebrew installed"
 
 echo "Installing Alacritty and and terminal configs"
-brew install --cask alacritty 
+# brew install --cask alacritty 
 brew install font-meslo-lg-nerd-font 
 brew install powerlevel10k 
 brew install zsh-autosuggestions
@@ -39,5 +39,5 @@ brew install cocoapods
 brew install git-svn
 
 echo "Setting Alacritty theme"
-mkdir -p ~/.config/alacritty/themes &&
-git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+# mkdir -p ~/.config/alacritty/themes &&
+# git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes

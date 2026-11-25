@@ -6,6 +6,7 @@ local config = wezterm.config_builder()
 
 config = {
 	-- Font configuration
+	font_dirs = { wezterm.home_dir .. '/Library/Fonts' },
 	font = wezterm.font('Iosevka Nerd Font'),
 	font_size = 15.0,
 	--	color_scheme = 'Gruvbox Dark (Gogh)',
